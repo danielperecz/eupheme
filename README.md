@@ -1,4 +1,4 @@
 # Eupheme
-`api` = node.js on expressjs framework
+client = React
 
-`client` = react
+server = Node.js on Express.js framework
